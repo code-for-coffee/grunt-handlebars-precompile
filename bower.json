@@ -1,0 +1,25 @@
+{
+  "name": "grunt-handlebars-precompile",
+  "version": "0.1.0",
+  "homepage": "https://github.com/code-for-coffee/grunt-handlebars-precompile",
+  "authors": [
+    "code-for-coffee <jtraverjr@gmail.com>"
+  ],
+  "description": "Precompile Handlebars templates for use with runtime library.",
+  "main": "gruntfile.js",
+  "keywords": [
+    "grunt",
+    "handlebars",
+    "precompile",
+    "compile",
+    "hbs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
